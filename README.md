@@ -1,2 +1,8 @@
-# Cryptoplace
-CryptoPlace is a web application designed for users to easily access real-time information about cryptocurrencies. The platform provides detailed insights into various digital assets, such as Bitcoin, Ethereum, and other popular altcoins, showcasing their current prices, market values, and 24-hour price changes
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
